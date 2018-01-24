@@ -1,6 +1,6 @@
 import uuid from 'uuid/v4'
 
-const generateGuid = addTimestamp => {
+function generateGuid(addTimestamp) {
   const randomGuid = uuid()
   if (!addTimestamp) {
     return randomGuid

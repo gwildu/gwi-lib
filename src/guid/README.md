@@ -7,7 +7,7 @@ optionally you can add a timestamp in front
 # usage
 
 ```javascript
-import guid from 'gwi-lib/guid'
+import guid from 'gwi-lib/lib/guid'
 
 const simpleGuid = guid()
 // -> '110ec58a-a0f2-4ac4-8393-c866d813b8d1'
