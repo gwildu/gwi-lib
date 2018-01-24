@@ -22,7 +22,9 @@ import {subModule} from 'gwi-lib/lib/module'
 
 # Modules
 
-tbd
+currently the following modules are supported:
+
+* [guid](./src/guid/README.md)
 
 # Contribution
 * If you think you could contribute something usefull too, feel free to open a pull request
