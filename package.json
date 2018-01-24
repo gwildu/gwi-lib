@@ -1,6 +1,6 @@
 {
   "name": "gwi-lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library of often used useful tools ",
   "main": "index.js",
   "scripts": {
